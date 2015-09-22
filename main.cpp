@@ -1,6 +1,8 @@
 #include <QApplication>
 #include <QPushButton>
 
+//komentarz w 4 linii
+
 int main(int argc, char **argv)
 {
     QApplication app (argc, argv);
