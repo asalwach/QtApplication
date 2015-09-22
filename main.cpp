@@ -13,4 +13,5 @@ int main(int argc, char **argv)
 
     window.show();
     return app.exec();
+    //jakistam komentarz w 16 linii
 }
